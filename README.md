@@ -68,8 +68,8 @@ To run these projects, you need to have Python installed on your machine. Follow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects
+   git clone https://github.com/Charis-Fernandes/Web-Scrapping-and-Automation-using-Python.git
+   cd Web-Scrapping-and-Automation-using-Python
 
    
 ## Usage
