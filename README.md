@@ -1,9 +1,9 @@
-# Python Projects Repository
+# Web-Scrapping using BS4 and Automnation using Selenium in Python
 
 This repository contains three projects developed using Python:
 
 1. **API Scraper**
-2. **HTML Scraper**
+2. **HTML Scraper using BS4**
 3. **Automating Tasks for Trello Website Using Selenium**
 
 ## Table of Contents
